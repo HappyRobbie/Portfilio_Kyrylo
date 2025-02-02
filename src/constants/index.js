@@ -230,7 +230,7 @@ const testimonials = [
   {
     id: 1,
     name: 'Erin Cortez',
-    image: '/assets/testimonials/avatar6.jpg',
+    image: '/src/assets/testimonials/avatar6.jpg',
     text: 'I really am comfortable with collaborating and coding with Tom. His ingenious ideas give me a lot of ideas solving a problem multiple ways.',
     country: 'United State',
     linkedIn: 'https://www.linkedin.com',
@@ -238,7 +238,7 @@ const testimonials = [
   {
     id: 2,
     name: 'Gwendolyn Terry',
-    image: '/assets/testimonials/avatar14.jpg',
+    image: '/src/assets/testimonials/avatar14.jpg',
     text: "Throughout our collaboration, I was consistently impressed by Tom's professionalism, attention to detail, and ability to adapt to changing requirements.",
     country: 'Spain',
     linkedIn: 'https://www.linkedin.com',
@@ -246,7 +246,7 @@ const testimonials = [
   {
     id: 3,
     name: 'Georgia Simmons',
-    image: '/assets/testimonials/avatar15.jpg',
+    image: '/src/assets/testimonials/avatar15.jpg',
     text: 'He possesses a deep understanding of the latest technologies and trends in his field, allowing him to tackle complex challenges with ease.',
     country: 'United State',
     linkedIn: 'https://www.linkedin.com',
@@ -254,7 +254,7 @@ const testimonials = [
   {
     id: 4,
     name: 'Douglas Wong',
-    image: '/assets/testimonials/avatar12.jpg',
+    image: '/src/assets/testimonials/avatar12.jpg',
     text: 'His kindness and patience with his peers makes him easy to work with no matter the difficulty, and that reflects as well when it comes to helping others in his team or explaining something when need be',
     country: 'Serbia',
     linkedIn: 'https://www.linkedin.com',
@@ -262,7 +262,7 @@ const testimonials = [
   {
     id: 5,
     name: 'Tamara Wyatt.',
-    image: '/assets/testimonials/avatar10.jpg',
+    image: '/src/assets/testimonials/avatar10.jpg',
     text: 'Communication was another strength that Tom brought to the table. He actively listened, communicated ideas clearly, and collaborated effectively with team members.',
     country: 'Newzealand',
     linkedIn: 'https://www.linkedin.com',
@@ -270,7 +270,7 @@ const testimonials = [
   {
     id: 6,
     name: 'Marko Kermichiev',
-    image: '/assets/testimonials/avatar11.jpg',
+    image: '/src/assets/testimonials/avatar11.jpg',
     text: 'I learned too much from you and I can say that you are fantastic developer. Working with you is always a pleasure, hope that we can work on some project asap.',
     country: 'Poland',
     linkedIn: 'https://www.linkedin.com',
