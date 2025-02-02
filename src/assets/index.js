@@ -25,6 +25,18 @@ import recipeapp from './projects/recipeapp.png';
 import trackbudget from './projects/trackbudget.png';
 import carrental from './projects/carrental.png';
 
+// projects
+import avatar6 from './testimonials/avatar6.jpg';
+import avatar7 from './testimonials/avatar7.jpg';
+import avatar8 from './testimonials/avatar8.jpg';
+import avatar9 from './testimonials/avatar9.jpg';
+import avatar10 from './testimonials/avatar10.jpg';
+import avatar11 from './testimonials/avatar11.jpg';
+import avatar12 from './testimonials/avatar12.jpg';
+import avatar13 from './testimonials/avatar13.jpg';
+import avatar14 from './testimonials/avatar14.jpg';
+import avatar15 from './testimonials/avatar15.jpg';
+
 // carousel img
 import guesstheword1 from './carousels/guess the word screenshot 1.png';
 import guesstheword2 from './carousels/guess the word screenshot 2.png';

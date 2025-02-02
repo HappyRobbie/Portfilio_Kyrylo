@@ -2,6 +2,10 @@ import {
   facebook, linkedin, instagram, twitter, github, facebook1, linkedin1, instagram1, twitter1, github1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental1, carrental2, carrental3, responsive, react, fullstack,
 } from '../assets';
 
+import {
+  avatar6, avatar7, avatar8, avatar9, avatar10, avatar11, avatar12, avatar13, avatar14, avatar15,
+} from '../assets';
+
 const social = [
   {
     id: 1,
@@ -230,7 +234,7 @@ const testimonials = [
   {
     id: 1,
     name: 'Erin Cortez',
-    image: '/src/assets/testimonials/avatar6.jpg',
+    image: avatar6,
     text: 'I really am comfortable with collaborating and coding with Tom. His ingenious ideas give me a lot of ideas solving a problem multiple ways.',
     country: 'United State',
     linkedIn: 'https://www.linkedin.com',
@@ -238,7 +242,7 @@ const testimonials = [
   {
     id: 2,
     name: 'Gwendolyn Terry',
-    image: '/src/assets/testimonials/avatar14.jpg',
+    image: avatar14,
     text: "Throughout our collaboration, I was consistently impressed by Tom's professionalism, attention to detail, and ability to adapt to changing requirements.",
     country: 'Spain',
     linkedIn: 'https://www.linkedin.com',
@@ -246,7 +250,7 @@ const testimonials = [
   {
     id: 3,
     name: 'Georgia Simmons',
-    image: '/src/assets/testimonials/avatar15.jpg',
+    image: avatar15,
     text: 'He possesses a deep understanding of the latest technologies and trends in his field, allowing him to tackle complex challenges with ease.',
     country: 'United State',
     linkedIn: 'https://www.linkedin.com',
@@ -254,7 +258,7 @@ const testimonials = [
   {
     id: 4,
     name: 'Douglas Wong',
-    image: '/src/assets/testimonials/avatar12.jpg',
+    image: avatar12,
     text: 'His kindness and patience with his peers makes him easy to work with no matter the difficulty, and that reflects as well when it comes to helping others in his team or explaining something when need be',
     country: 'Serbia',
     linkedIn: 'https://www.linkedin.com',
@@ -262,7 +266,7 @@ const testimonials = [
   {
     id: 5,
     name: 'Tamara Wyatt.',
-    image: '/src/assets/testimonials/avatar10.jpg',
+    image: avatar10,
     text: 'Communication was another strength that Tom brought to the table. He actively listened, communicated ideas clearly, and collaborated effectively with team members.',
     country: 'Newzealand',
     linkedIn: 'https://www.linkedin.com',
@@ -270,7 +274,7 @@ const testimonials = [
   {
     id: 6,
     name: 'Marko Kermichiev',
-    image: '/src/assets/testimonials/avatar11.jpg',
+    image: avatar11,
     text: 'I learned too much from you and I can say that you are fantastic developer. Working with you is always a pleasure, hope that we can work on some project asap.',
     country: 'Poland',
     linkedIn: 'https://www.linkedin.com',
