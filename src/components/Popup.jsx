@@ -1,17 +1,21 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { TfiClose } from 'react-icons/tfi';
-import { motion } from 'framer-motion';
-import { zoomIn } from '../utils/motion';
-import style from './styles/popup.module.css';
-import Carousel from './Carousel';
+import React from "react";
+import PropTypes from "prop-types";
+import { TfiClose } from "react-icons/tfi";
+import { motion } from "framer-motion";
+import { zoomIn } from "../utils/motion";
+import style from "./styles/popup.module.css";
+import Carousel from "./Carousel";
 
 const Popup = ({ handleClose, project }) => (
   <motion.div
     className={style.overlay}
     initial="hidden"
     animate="show"
-    exit={{ opacity: 0, scale: 0, transition: { type: 'tween', duration: 0.5 } }}
+    exit={{
+      opacity: 0,
+      scale: 0,
+      transition: { type: "tween", duration: 0.5 },
+    }}
     variants={zoomIn(0, 0.5)}
   >
     <div className={style.container}>
@@ -30,8 +34,13 @@ const Popup = ({ handleClose, project }) => (
             <span className={style.btn_hover}>View Source</span>
             <span className={style.btn}>View Source</span>
           </a> */}
-          {project.id !== 2 && project.id !== 5 ? (
-            <a href={project.live_link} target="_blank" className={`${style.live_link} ${style.btn_container}`} rel="noreferrer">
+          {project.id !== 200 && project.id !== 500 ? (
+            <a
+              href={project.live_link}
+              target="_blank"
+              className={`${style.live_link} ${style.btn_container}`}
+              rel="noreferrer"
+            >
               <span className={style.btn_hover}>View Live</span>
               <span className={style.btn}>View Live</span>
             </a>

@@ -31,6 +31,7 @@
   aspect-ratio: 4 / 3;
   position: relative;
   overflow: hidden;
+  margin: 2px;
 }
 
 .img {
@@ -291,7 +292,8 @@
 
   .project_container {
     width: 970px;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto;
+    grid-area: 1;
   }
 
   .name {
