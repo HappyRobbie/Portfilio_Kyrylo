@@ -62,11 +62,16 @@ const technologies = [
   },
   {
     stack: ['languages', 'all'],
+    name: 'PHP',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg',
+  },
+  {
+    stack: ['languages', 'all'],
     name: 'Ruby',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg',
   },
   {
-    stack: ['Language', 'all'],
+    stack: ['languages', 'all'],
     name: 'TypeScript',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg',
   },
@@ -74,6 +79,16 @@ const technologies = [
     stack: ['languages', 'all'],
     name: 'Python',
     icon: 'https://img.icons8.com/?size=100&id=13441&format=png&color=000000',
+  },
+  {
+    stack: ['languages', 'all'],
+    name: 'Go',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg',
+  },
+  {
+    stack: ['languages', 'all'],
+    name: 'Rust',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg',
   },
   {
     stack: ['frameworks', 'all'],
@@ -90,6 +105,7 @@ const technologies = [
     name: 'Ruby on Rails',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg',
   },
+  
   {
     stack: ['frameworks', 'all'],
     name: 'Bootstrap',
@@ -102,11 +118,6 @@ const technologies = [
   }, 
   {
     stack: ['frameworks', 'all'],
-    name: 'MongoDB',
-    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
-  },
-  {
-    stack: ['frameworks', 'all'],
     name: 'Laravel',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg',
   },
@@ -115,6 +126,22 @@ const technologies = [
     stack: ['frameworks', 'all'],
     name: 'Django',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg',
+  },
+  {
+    stack: ['frameworks', 'all'],
+    name: 'Angular.js',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg',
+  }, 
+  {
+    stack: ['frameworks', 'all'],
+    name: 'Express.js',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg',
+  },
+
+  {
+    stack: ['tools', 'all'],
+    name: 'MongoDB',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
   },
   {
     stack: ['tools', 'all'],
@@ -135,6 +162,16 @@ const technologies = [
     stack: ['tools', 'all'],
     name: 'Postman',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg',
+  },
+  {
+    stack: ['tools', 'all'],
+    name: 'Vercel',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg',
+  },
+  {
+    stack: ['tools', 'all'],
+    name: 'Mysql',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg',
   },
 ];
 
