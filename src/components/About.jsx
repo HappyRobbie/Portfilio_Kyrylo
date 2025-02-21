@@ -18,7 +18,7 @@ const About = () => (
           className={style.link}
           rel="noreferrer"
         >
-          Ilija Malenovic,
+          Kyrylo Vakulenko,
         </a>{" "}
         a Senior Full-stack Web Developer, with over a +5 years of experience
         working with cutting-edge languages and programming techniques. I enjoy

@@ -65,8 +65,8 @@ const Footer = () => (
         className={style.a}
         rel="noreferrer"
       >
-        Brought into being by <span className={style.span}>©</span> Ilija
-        Malenovic
+        Brought into being by <span className={style.span}>©</span> Kyrylo
+        Vakulenko
       </a>
     </abbr>
   </motion.section>
